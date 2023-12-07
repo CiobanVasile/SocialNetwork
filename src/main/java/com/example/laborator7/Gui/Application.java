@@ -19,6 +19,7 @@ public class Application extends javafx.application.Application {
     private MessageService messageService;
     private User currentUser;
 
+
     @Override
     public void start(Stage stage) throws IOException{
 
